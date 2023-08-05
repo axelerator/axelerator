@@ -1,6 +1,6 @@
 # under 🚧
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelerator&langs_count=15&exclude_repo=dotfiles)](https://github.com/axelerator/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelerator&layout=compact&langs_count=8&exclude_repo=dotfiles,ssh-client-connection,quick_release,sealand)](https://github.com/axelerator/github-readme-stats)
 <!--
 **axelerator/axelerator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
