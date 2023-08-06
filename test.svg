@@ -24,7 +24,15 @@ h1 {
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
       </style>
+      <script>
+        function doit() {
+          console.log("it works");
+          alert("yeah");
+        }
+      </script>
+
       <h1>Hello, world</h1>
+      <p onClick="doit()">do it</p>
     </div>
   </foreignObject>
 </svg>
