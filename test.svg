@@ -12,7 +12,7 @@
         .svg-text {
           position: relative;
           transform: rotateX(10deg);
-          font-size: 28em;
+          font-size: 18em;
           font-family: 'dragon_is_comingregular', serif;
           transition: all 0.6s ease-in-out;
           color: #f0f0f0;
